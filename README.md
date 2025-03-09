@@ -19,3 +19,4 @@ An embedded system to recognize individual cats and dispense food automatically.
    ```bash
    git clone https://github.com/your-username/cat-recognition-auto-feeder.git
    cd cat-recognition-auto-feeder
+https://www.youtube.com/watch?v=iOTWZI4RHA8
